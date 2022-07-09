@@ -353,7 +353,9 @@ footer .copyright {
   margin-top: 3px;
 }
 footer .logo {
-  margin: 30px auto 0;
+  margin: 30px 479px 0;
+  display: block;
+  height: 14px;
 }
 
 .to-top {
